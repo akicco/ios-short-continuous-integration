@@ -200,7 +200,6 @@
 					};
 					A955D29E1DEDDD3700018872 = {
 						CreatedOnToolsVersion = 8.1;
-						DevelopmentTeam = AT7S4C746C;
 						ProvisioningStyle = Automatic;
 						TestTargetID = 835AEC8A1D80DD7F0046555C;
 					};
@@ -459,7 +458,7 @@
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_SUSPICIOUS_MOVES = YES;
-				DEVELOPMENT_TEAM = AT7S4C746C;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = RomanNumeralCalculatorTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
@@ -477,7 +476,7 @@
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_SUSPICIOUS_MOVES = YES;
-				DEVELOPMENT_TEAM = AT7S4C746C;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = RomanNumeralCalculatorTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
